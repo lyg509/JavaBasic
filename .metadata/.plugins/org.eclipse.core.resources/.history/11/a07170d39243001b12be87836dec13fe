@@ -1,0 +1,11 @@
+
+public class CapitalLetterOrSmallLetter {
+	
+	public static void main(String[] args) {
+		boolean b = true;
+		char ch = 'C';
+		
+		System.out.printf("",b);
+
+	}
+}

@@ -1,0 +1,10 @@
+
+public class OperateEx {
+	public static void  main(String args[]) {
+		int x = 10;
+		int y = 8;
+
+			System.out.printf("%b을 %d로 나누면, %n", x,y);
+	}
+
+}
